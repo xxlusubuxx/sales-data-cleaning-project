@@ -14,7 +14,6 @@ This project demonstrates a Python-based approach to cleaning messy sales data u
 ├── README.md                           # This file
 ├── .gitignore                          # Git ignored files
 ├── requirements.txt                    # Python dependencies
-└── LICENSE                             # (Optional) License
 
 ## 🛠 What This Script Does
 
