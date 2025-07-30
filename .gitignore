@@ -1,0 +1,31 @@
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (you can comment these out if you want to include samples)
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv
+env/
+venv/
+````
+
+---
+
+### ✅ `requirements.txt`
+
+```text
+pandas
+```
