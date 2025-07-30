@@ -8,9 +8,9 @@ This project demonstrates a Python-based approach to cleaning messy sales data u
 
 .
 ├── data/
-│   ├── raw\_sales\_data\_sample.csv       # Sample raw input (anonymized)
-│   └── cleaned\_sales\_data\_sample.csv   # Output after cleaning
-├── Data\_Cleaner.py                     # Main Python script
+│   ├── raw_sales_data_sample.csv       # Sample raw input (anonymized)
+│   └── raw_sales_data_sample_cleaned.csv   # Output after cleaning
+├── Data_Cleaner.py                     # Main Python script
 ├── README.md                           # This file
 ├── .gitignore                          # Git ignored files
 ├── requirements.txt                    # Python dependencies
