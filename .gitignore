@@ -23,9 +23,3 @@ venv/
 ````
 
 ---
-
-### ✅ `requirements.txt`
-
-```text
-pandas
-```
