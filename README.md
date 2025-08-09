@@ -2,6 +2,8 @@
 
 This project demonstrates a Python-based approach to cleaning messy sales data using custom functions for field normalization and validation. It prepares raw CSV data for accurate analysis and dashboarding.
 
+This data was generated using Mockaroo, an AI tool that generates messy data for cleaning purposes. The data has no meaning in analysing, as there would be no pattern, and it would be arbitrary should there be one.
+
 ## 🗂 Project Structure
 
 ```
